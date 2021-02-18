@@ -2,7 +2,7 @@
 
 &nbsp;
 
-PhD Student at Yale University
+Paul Lendway is a PhD student in Political Science at Yale University specializing in American political behavior. Prior to Yale, he received a Master’s in Public Administration from the University of Pennsylvania and served as the Office of Undergraduate Studies Business Manager at Virginia Tech. He can be contacted at Paul.Lendway@yale.edu.
 
  &nbsp;
 
