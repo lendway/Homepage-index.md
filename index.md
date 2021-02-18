@@ -4,14 +4,10 @@ PhD Student at Yale University
 
 **Publications** 
 
-The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences
-
  &nbsp;
  
- <a href="https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences" URL> TEST </a>
+ <a href="https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences" URL> The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences </a>
  
-[https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences]
-
  &nbsp;
  
 How Higher Education Can Practice Better Budgeting
