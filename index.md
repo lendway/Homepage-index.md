@@ -8,7 +8,7 @@ The Effect of Informational and Empathy-Enhancing Interventions on Redistributiv
 
  &nbsp;
 
-[https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences]
+[https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences](link)
 
  &nbsp;
  
