@@ -7,7 +7,7 @@ PhD Student at Yale University
 The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences
 
  &nbsp;
-
+ 
 [https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences]
 
  &nbsp;
