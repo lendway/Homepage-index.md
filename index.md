@@ -1,5 +1,8 @@
 ## Paul Lendway
 
+![2 18 21 Yale Paul](https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg)
+
+
 &nbsp;
 
 Paul Lendway is a PhD student in Political Science at Yale University specializing in American political behavior. Prior to Yale, he received a Master’s in Public Administration from the University of Pennsylvania and served as the Office of Undergraduate Studies Business Manager at Virginia Tech. He can be contacted at Paul.Lendway@yale.edu. 
