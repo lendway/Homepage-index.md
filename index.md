@@ -5,7 +5,7 @@
 
 &nbsp;
 
-Paul Lendway is a 5th year PhD candidate in Political Science at Yale University studying inequality, populism, and social movements. His research has been published in the Yale Journal of International Affairs, and he has presented his research at a wide range of organizations, including the American Political Science Association,  Harvard University, and Yale University. In addition to receiving Yale's teaching certificate, he has served as a Teaching Fellow at Yale for Introduction to American Politics, Introduction to Statistics, Capitalism and Crisis, and Strategic Models of Politics. Prior to Yale, he received a Master’s in Public Administration from the University of Pennsylvania and served as the Office of Undergraduate Studies Business Manager at Virginia Tech.
+     Paul Lendway is a 5th year PhD candidate in Political Science at Yale University studying inequality, populism, and social movements. His research has been published in the Yale Journal of International Affairs, and he has presented his research at a wide range of organizations, including the American Political Science Association,  Harvard University, and Yale University. In addition to receiving Yale's teaching certificate, he has served as a Teaching Fellow at Yale for Introduction to American Politics, Introduction to Statistics, Capitalism and Crisis, and Strategic Models of Politics. Prior to Yale, he received a Master’s in Public Administration from the University of Pennsylvania and served as the Office of Undergraduate Studies Business Manager at Virginia Tech.
 
  &nbsp;
  
