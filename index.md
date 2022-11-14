@@ -19,9 +19,9 @@ Paul.Lendway@yale.edu
   
  **Under Review:** 
  
- How Competing Fairness Primes Shape Preferences to Address Inequality. Revise and resubmit at American Politics Research. 
+ How Competing Fairness Primes Shape Preferences to Address Inequality. _Revise and resubmit at American Politics Research_. 
  
- The (Minimal) Effect of Exposure to Information about Fossil Fuel Divestment on Public Opinion. Revise and resubmit at Environmental Politics. 
+ The (Minimal) Effect of Exposure to Information about Fossil Fuel Divestment on Public Opinion. _Revise and resubmit at Environmental Politics_. 
 
  
  &nbsp;
