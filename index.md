@@ -9,7 +9,9 @@ Paul Lendway is a 5th year PhD candidate in Political Science at Yale University
 
  &nbsp;
  
-**Contact:** Paul.Lendway@yale.edu
+**Contact:**
+
+Paul.Lendway@yale.edu
 
 **Publication** 
  
