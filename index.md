@@ -5,17 +5,22 @@
 
 &nbsp;
 
-Paul Lendway is a PhD student in Political Science at Yale University specializing in American political behavior. Prior to Yale, he received a Master’s in Public Administration from the University of Pennsylvania and served as the Office of Undergraduate Studies Business Manager at Virginia Tech. He can be contacted at Paul.Lendway@yale.edu. 
+Paul Lendway is a 5th year PhD candidate in Political Science at Yale University studying inequality, populism, and social movements. His research has been published in the Yale Journal of International Affairs, and he has presented his research at a wide range of organizations, including the American Political Science Association,  Harvard University, and Yale University. In addition to receiving Yale's teaching certificate, he has served as a Teaching Fellow at Yale for Introduction to American Politics, Introduction to Statistics, Capitalism and Crisis, and Strategic Models of Politics. Prior to Yale, he received a Master’s in Public Administration from the University of Pennsylvania and served as the Office of Undergraduate Studies Business Manager at Virginia Tech.
 
  &nbsp;
+Contact: Paul.Lendway@yale.edu
+ &nbsp;
 
-**Publications** 
+**Publication** 
  
  <a href="https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences" URL> The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences </a>
   
-<a href="https://www.fels.upenn.edu/recap/posts/1162" URL> How Higher Education Can Practice Better Budgeting </a>
+ **Under Review** 
  
- <a href="https://www.fels.upenn.edu/recap/posts/834" URL> An Economy out of Balance </a>
+ How Competing Fairness Primes Shape Preferences to Address Inequality. Revise and resubmit at American Politics Research. 
+ 
+ The (Minimal) Effect of Exposure to Information about Fossil Fuel Divestment on Public Opinion. Revise and resubmit at Environmental Politics. 
+
  
  &nbsp;
 
