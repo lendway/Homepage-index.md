@@ -11,8 +11,6 @@ Paul Lendway is a 5th year PhD candidate in Political Science at Yale University
  
 **Contact:** Paul.Lendway@yale.edu
 
- &nbsp;
-
 **Publication** 
  
  <a href="https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences" URL> The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences </a>
