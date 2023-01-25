@@ -13,15 +13,12 @@
 
 Paul.Lendway@yale.edu
 
-**Publication:** 
+**Peer-Reviewed Publications:** 
  
- <a href="https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences" URL> The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences </a>
-  
- **Under Review:** 
- 
- "How Competing Fairness Primes Shape Preferences to Address Inequality" (with Greg Huber). Invited to revise and resubmit at _American Politics Research_. 
+ "How Competing Fairness Primes Shape Preferences to Address Inequality" (with Greg Huber). Accepted at _American Politics Research_. 
  
  "The Minimal Effect of Exposure to Information about Fossil Fuel Divestment on Public Opinion" (with Abolfazl Nuri and Josh Schwartz). Conditionally accepted at _Environmental Politics_. 
+
 
  
  &nbsp;
