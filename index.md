@@ -15,7 +15,7 @@ Paul.Lendway@yale.edu
 
 **Peer-Reviewed Publications:** 
  
- "How Competing Fairness Primes Shape Preferences to Address Inequality" (with Greg Huber). Accepted at _American Politics Research_. 
+ "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). Accepted at _American Politics Research_. 
  
  "The Minimal Effect of Exposure to Information about Fossil Fuel Divestment on Public Opinion" (with Abolfazl Nuri and Josh Schwartz). Conditionally accepted at _Environmental Politics_. 
 
