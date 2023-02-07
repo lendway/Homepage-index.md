@@ -17,7 +17,7 @@ Paul.Lendway@yale.edu
  
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). Accepted at _American Politics Research_. 
  
- "The Minimal Effect of Exposure to Information about Fossil Fuel Divestment on Public Opinion" (with Abolfazl Nuri and Josh Schwartz). Accepted at _Environmental Politics_. 
+ "Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries" (with Abolfazl Nuri and Josh Schwartz). Accepted at _Environmental Politics_. 
 
 
  
