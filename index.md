@@ -19,7 +19,7 @@ Paul.Lendway@yale.edu
 
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). Accepted at _American Politics Research_. 
 
- 
+
  &nbsp;
 
 
