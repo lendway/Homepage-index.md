@@ -5,6 +5,12 @@
 
 <img src = "https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg" width = "50%" height = "50%">
 
+<style type="text/css">
+  body{
+  font-size: 18pt;
+}
+</style>
+
  **[CV](/CV.md)** 
 
 **[Teaching](/Teaching.md)** 
