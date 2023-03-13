@@ -1,7 +1,3 @@
-pre {
-  -moz-tab-size: 4;
-  tab-size: 4;
-}
 
 ## Paul Lendway
 
