@@ -1,8 +1,8 @@
 ## Paul Lendway
 
-![2 18 21 Yale Paul](https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg) 
 
-<img src = "https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg" width = "50%">
+
+<img src = "https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg" width = "50%" height = "50%>
 
 **[CV](/CV.md)** 
 
