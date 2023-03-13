@@ -1,7 +1,7 @@
 ## Paul Lendway
 
 
-**I have served as a Teaching Fellow for:**
+**At Yale, I have served as a Teaching Fellow for:**
 
  &nbsp;
 
