@@ -16,16 +16,16 @@ Instructor: Amir Fairdosi
 
  &nbsp;
 
-**Introduction to American Politics (Spring 2023)**
+**Introduction to American Politics (Spring 2023)** <br />
 Instructor: Christina Kinane
 
  &nbsp;
-
-**Introduction to Statistics (Fall 2020)**
+ 
+**Introduction to Statistics (Fall 2020)** <br />
 Instructors: Jonathan Reuning-Schere and Kelly Rader
 
  &nbsp;
 
-**Strategic Models of Politics (Spring 2022)**
+**Strategic Models of Politics (Spring 2022)** <br />
 Instructor: Milan Svolik
 
