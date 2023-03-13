@@ -6,6 +6,8 @@
 
 
 **[Teaching](/Teaching.md)** 
+
+**[CV](/CV.md)** 
  
 
 &nbsp;
