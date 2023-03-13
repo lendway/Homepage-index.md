@@ -2,7 +2,7 @@
 
 ![2 18 21 Yale Paul](https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg)
 
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg"  width="600" height="300">
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg(https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg"  width="600" height="300">
 
 <font size="12"> **[Teaching](/Teaching.md)**  </font>
  
