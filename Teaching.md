@@ -9,12 +9,16 @@ Capitalism and Crisis
 
 &nbsp;
 
+
+Introduction to American Politics
+
+ &nbsp;
+
+
 Introduction to Statistics
 
  &nbsp;
 
 Strategic Models of Politics
 
- &nbsp;
 
-Introduction to American Politics
