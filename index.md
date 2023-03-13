@@ -4,9 +4,8 @@
 
 
 
-<font size="5"> **[Teaching](/Teaching.md)**  </font>
+<font size="12"> **[Teaching](/Teaching.md)**  </font>
  
- <font size = "2">
 
 &nbsp;
 
