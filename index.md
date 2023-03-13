@@ -9,6 +9,8 @@
 
 **[CV](/CV.md)**
 
+**[Publications](/Publications.md)**
+
 **[Teaching](/Teaching.md)** 
 
 
