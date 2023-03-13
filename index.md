@@ -5,7 +5,7 @@
 
 
 
-<font size="12"> **[Teaching](/Teaching.md)**  </font>
+**[Teaching](/Teaching.md)** 
  
 
 &nbsp;
