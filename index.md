@@ -4,7 +4,7 @@
 
 
 
-<font size = "6"> **[Teaching](/Teaching.md)** <font size = "6">
+***[Teaching](/Teaching.md)*** 
  
  <font size = "2">
 
