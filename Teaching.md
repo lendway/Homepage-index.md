@@ -5,13 +5,13 @@ At Yale, I have served as a Teaching Fellow for:
 
  &nbsp;
 
-**Capitalism and Crisis (Spring 2021)**
+**Capitalism and Crisis (Spring 2021)** <br />
 Instructor: Isabela Mares
 
 &nbsp;
 
 
-**Introduction to American Politics (Fall 2021)**
+**Introduction to American Politics (Fall 2021)** <br />
 Instructor: Amir Fairdosi
 
  &nbsp;
