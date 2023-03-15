@@ -1,11 +1,11 @@
 main:
   - title: "Bio"
-    url: /index.md
+    url: /index.html
   - title: "CV"
-    url: /CV.md
+    url: /CV
   - title: "Presentations"
-    url: /Presentations.md
+    url: /Presentations
   - title: "Publications"
-    url: /Publications.md
+    url: /Publications
   - title: "Teaching"
-    url: /Teaching.md
+    url: /Teaching
