@@ -3,7 +3,8 @@ title: Bio
 
 ---
 
-<img src = "https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg" width = "65%" height = "65%">
+
+![6 8 22 Lendway Headshot](https://user-images.githubusercontent.com/78934389/225464302-2958248d-1aac-461f-9344-d5c223d2a7e2.jpeg)
 
 &nbsp;
 
