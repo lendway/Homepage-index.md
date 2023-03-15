@@ -5,7 +5,7 @@ title: Bio
 
 
 
-<img src = "https://user-images.githubusercontent.com/78934389/225464302-2958248d-1aac-461f-9344-d5c223d2a7e2.jpeg" width = "65%" height = "65%">
+<img src = "https://user-images.githubusercontent.com/78934389/225464302-2958248d-1aac-461f-9344-d5c223d2a7e2.jpeg" width = "35%" height = "35%">
 
 &nbsp;
 
