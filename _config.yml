@@ -1,3 +1,15 @@
 theme: mmistakes/minimal-mistakes@4.24.0
 
 minimal_mistakes_skin: "default"
+
+main:
+  - title: "Bio"
+    url: /docs/quick-start-guide/
+  - title: "CV"
+    url: /year-archive/
+  - title: "Presentations"
+    url: /year-archive/
+  - title: "Publications"
+    url: /year-archive/
+  - title: "Teaching"
+    url: /year-archive/
