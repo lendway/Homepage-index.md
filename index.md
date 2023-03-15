@@ -1,4 +1,7 @@
+---
+title: Bio
 
+---
 
 <img src = "https://user-images.githubusercontent.com/78934389/108396854-54dab180-71e5-11eb-84c0-f2fff40b4dae.jpg" width = "65%" height = "65%">
 
