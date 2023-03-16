@@ -22,7 +22,7 @@ I received a Bachelor's of Business Administration at William and Mary as well a
  
 **Contact:**
 
-Paul.Lendway [at] yale.edu
+Paul.Lendway@yale.edu
 
 
 
