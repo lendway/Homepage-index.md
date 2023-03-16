@@ -14,7 +14,7 @@ Welcome! I am a PhD candidate in Political Science at Yale University. The prima
 
 My research is published or forthcoming in American Politics Research, Environmental Politics and the Yale Journal of International Affairs. I have presented my research at a wide range of organizations, including the American Political Science Association,  Harvard University, and Yale University. Funding for my research has been provided by the University of Pennsylvania, Yale University, and other organizations.
 
-I completed received a Bachelor's in Business Administration at the College of William and Mary as well as a Master's of Public Administration at the University of Pennsylvania. Before starting the PhD program at Yale, I completed a Leadership Development Program at a Fortune 500 healthcare company called Amerigroup, which is now part of Elevance Health. I also served as the Faculty of Health Sciences Program Coordinator and Office of Undergraduate Studies Business Manager at Virginia Teach. 
+I received a Bachelor's of Business Administration at the College of William and Mary as well as a Master's of Public Administration at the University of Pennsylvania. Before starting the PhD program at Yale, I completed a Leadership Development Program at a Fortune 500 healthcare company called Amerigroup, which is now part of Elevance Health. I also served as the Faculty of Health Sciences Program Coordinator and Office of Undergraduate Studies Business Manager at Virginia Teach. 
 
 
 
