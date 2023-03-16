@@ -27,7 +27,6 @@ _"Introduction to American national government. The Constitution, American polit
 
  &nbsp;
 
- &nbsp;
  
 **Introduction to Statistics (Fall 2020)** <br />
 Instructors: Jonathan Reuning-Schere and Kelly Rader
