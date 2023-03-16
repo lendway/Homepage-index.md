@@ -20,14 +20,12 @@ _"This course provides an introduction to the study of comparative capitalism. W
 **Introduction to American Politics (Fall 2021)** <br />
 Instructor: Amir Fairdosi
 
-_"Introduction to American national government. The Constitution, American political culture, civil rights, Congress, the executive, political parties, public opinion, interest groups, the media, social movements, and the policy-making process."_
-
- &nbsp;
-
 **Introduction to American Politics (Spring 2023)** <br />
 Instructor: Christina Kinane
 
 _"Introduction to American national government. The Constitution, American political culture, civil rights, Congress, the executive, political parties, public opinion, interest groups, the media, social movements, and the policy-making process."_
+
+ &nbsp;
 
  &nbsp;
  
