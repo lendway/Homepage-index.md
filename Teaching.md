@@ -4,7 +4,7 @@ layout: single
 ---
 
 
-At Yale, I have received a Teaching Certficiate and have served as a Teaching Fellow for: 
+At Yale, I have received a Teaching Certificate and have served as a Teaching Fellow for: 
 
  &nbsp;
 
