@@ -9,6 +9,6 @@ Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experime
 
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). Accepted at _American Politics Research_. 
 
-**Other Writings:**
+**Other Writing:**
 
 "The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
