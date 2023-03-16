@@ -4,10 +4,7 @@ title: Bio
 ---
 
 
-<img src = "https://user-images.githubusercontent.com/78934389/225647444-7cf7da92-f7c0-40f3-8d5c-e3d1e87c6b1b.png" width = "35%" height = "35%" style = "float:left; margin-right:20px" >
-
-<img src = "https://user-images.githubusercontent.com/78934389/225464302-2958248d-1aac-461f-9344-d5c223d2a7e2.jpeg" width = "35%" height = "35%" style = "float:left; margin-right:20px" >
-
+<img src = "https://user-images.githubusercontent.com/78934389/225647444-7cf7da92-f7c0-40f3-8d5c-e3d1e87c6b1b.png" width = "50%" height = "50%" style = "float:left; margin-right:20px" >
 
 
 
