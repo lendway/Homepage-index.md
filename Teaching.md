@@ -1,4 +1,7 @@
-## Paul Lendway
+---
+layout: single
+
+---
 
 
 At Yale, I have served as a Teaching Fellow for: 
