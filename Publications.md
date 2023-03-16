@@ -5,7 +5,7 @@ layout: single
 
 **Peer-Reviewed Publications:** 
  
- [https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top]("Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries") (with Abolfazl Nuri and Josh Schwartz). _Environmental Politics_.  
+[https://www.tandfonline.com/doi/full/10.1080/09644016.2023.2178351?role=tab&tab=permissions&scroll=top](Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experimental Test in Three Countries) (with Abolfazl Nuri and Josh Schwartz). _Environmental Politics_.  
 
 
 
