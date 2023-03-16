@@ -20,18 +20,25 @@ _"This course provides an introduction to the study of comparative capitalism. W
 **Introduction to American Politics (Fall 2021)** <br />
 Instructor: Amir Fairdosi
 
+_"Introduction to American national government. The Constitution, American political culture, civil rights, Congress, the executive, political parties, public opinion, interest groups, the media, social movements, and the policy-making process."_
+
  &nbsp;
 
 **Introduction to American Politics (Spring 2023)** <br />
 Instructor: Christina Kinane
+
+_"Introduction to American national government. The Constitution, American political culture, civil rights, Congress, the executive, political parties, public opinion, interest groups, the media, social movements, and the policy-making process."_
 
  &nbsp;
  
 **Introduction to Statistics (Fall 2020)** <br />
 Instructors: Jonathan Reuning-Schere and Kelly Rader
 
+_"Statistical analysis of politics, elections, and political psychology. Problems presented with reference to a wide array of examples: public opinion, campaign finance, racially motivated crime, and public policy."_
+
  &nbsp;
 
 **Strategic Models of Politics (Spring 2022)** <br />
 Instructor: Milan Svolik
 
+_"Introduction to formal political theory including application of rational choice and game theoretic analysis. Key topics and findings include: why voters vote in elections; how candidates choose platforms; why common resources tend to be overexploited; whether the state is needed for public good provision; how electoral systems shape politicians' and voters' behavior; whether voters can hold politicians accountable for their performance in office; how constitutions affect politicians' incentives to compromise; and why countries fight wars."_
