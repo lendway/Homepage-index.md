@@ -3,9 +3,6 @@ title: Bio
 
 ---
 
-<head>
-
-<meta name="google-site-verification" content="C8Um20-6MdtkcSlOpJAMTORJyUaPrKQsnPuxmnDJDFk" />
 
 <img src = "https://user-images.githubusercontent.com/78934389/225647444-7cf7da92-f7c0-40f3-8d5c-e3d1e87c6b1b.png" width = "100%" height = "70%" style = "float:top; margin-right:20px" >
 
