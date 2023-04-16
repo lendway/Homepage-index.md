@@ -1,6 +1,3 @@
-<head>
- 
-<meta name="google-site-verification" content="C8Um20-6MdtkcSlOpJAMTORJyUaPrKQsnPuxmnDJDFk" />
 ---
 title: Bio
 
