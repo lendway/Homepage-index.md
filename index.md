@@ -1,11 +1,10 @@
- <head>
 
-<meta name="google-site-verification" content="C8Um20-6MdtkcSlOpJAMTORJyUaPrKQsnPuxmnDJDFk" />
-  </head>
 
 ---
 title: Bio 
 
+<meta name="google-site-verification" content="C8Um20-6MdtkcSlOpJAMTORJyUaPrKQsnPuxmnDJDFk" />
+  </head>
 ---
 
 
