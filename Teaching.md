@@ -15,8 +15,12 @@ _"This course provides an introduction to the study of comparative capitalism. W
 
 &nbsp;
 
-&nbsp;
+**Comparative Politics: States, Regimes, and Conflict (Fall 2023)** <br />
+Instructor: Ana Del La O Torres
 
+_"Introduction to the study of politics and political life in the world outside the United States. State formation and nationalism, the causes and consequences of democracy, the functioning of authoritarian regimes, social movements and collective action, and violence."_
+
+&nbsp;
 
 **Introduction to American Politics (Fall 2021)** <br />
 Instructor: Amir Fairdosi
@@ -25,13 +29,6 @@ Instructor: Amir Fairdosi
 Instructor: Christina Kinane
 
 _"Introduction to American national government. The Constitution, American political culture, civil rights, Congress, the executive, political parties, public opinion, interest groups, the media, social movements, and the policy-making process."_
-
- &nbsp;
-
-**Comparative Politics: States, Regimes, and Conflict (Fall 2023)** <br />
-Instructor: Ana Del La O Torres
-
-_"Introduction to the study of politics and political life in the world outside the United States. State formation and nationalism, the causes and consequences of democracy, the functioning of authoritarian regimes, social movements and collective action, and violence."_
 
  &nbsp;
  
