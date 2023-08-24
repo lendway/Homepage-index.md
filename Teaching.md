@@ -6,7 +6,7 @@ layout: single
 
 At Yale, I have received a Teaching Certificate and have served as a Teaching Fellow for the following courses: 
 
- &nbsp;
+ &nbsp; 
 
 **Capitalism and Crisis (Spring 2021)** <br />
 Instructor: Isabela Mares
