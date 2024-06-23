@@ -15,7 +15,7 @@ Regarding the first question, my first dissertation paper posits and tests a the
 
 My research is published in American Politics Research, Environmental Politics, and the Yale Journal of International Affairs. I have presented my research at a wide range of organizations, including the American Political Science Association,  Harvard University, and Yale University. Funding for my research has been provided by the University of Pennsylvania, Yale University, and other organizations.
 
-Teaching is a great passion of mine! At Yale, I have served as a graduate teaching fellow for six courses: Capitalism and Crisis, Introduction to American Politics (twice), Introduction to Comparative Politics, Introduction to Statistics, and Strategic Models of Politics. Throughout this teaching experience, I obtained Yale's Teaching Certificate. 
+Teaching is a great passion of mine! At Yale, I have served as a graduate teaching fellow for six courses: Capitalism and Crisis, Introduction to American Politics (twice), Introduction to Comparative Politics, Introduction to Statistics, and Strategic Models of Politics. Throughout this teaching experience, I obtained Yale's Teaching Certificate.  
 
 At Yale, I am a Lead Editor for the Yale Journal of Health Policy, Law, and Ethics, a Content Editor for the Yale Journal of International Affairs, and a Co-Coordinator for the Yale Institute for Social and Policy Studies Graduate Policy Fellows Program. In the spring of 2024, I was a Visiting Editor for Princeton's Journal of Public and International Affairs. 
 
