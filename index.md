@@ -9,7 +9,7 @@
 
 
 
-Welcome! I am a PhD candidate in the [Department of Political Science](https://politicalscience.yale.edu/) at [Yale University](https://www.yale.edu/). My primary research agenda investigates major questions at the intersection of populism, conservativism, and contemporary American political attitudes. Do populist appeals increase mass support for democratic backsliding? What explains the link between White evangelicals and Trump? To address these questions, I collect original data and utilize experimental methods to gain causal leverage.  
+Welcome! I am a PhD candidate in the [Department of Political Science](https://politicalscience.yale.edu/) at [Yale University](https://www.yale.edu/). My primary research agenda investigates major questions at the intersection of populism, conservativism, and contemporary American political attitudes. Do populist appeals increase mass support for democratic backsliding? What explains the link between White evangelicals and Trump? 
 
 Regarding the first question, my first dissertation paper posits and tests a theoretical framework for how populist appeals increase mass support for democratic backsliding. This solo-authored article has been invited to revise and resubmit at \textit{Political Behavior}. My second dissertation paper is part of a broader book project that speaks to the second question. While that paper started out as an exploration of the cleavage between White evangelicals and Trump, it has broadened to an investigation of the cleavage between White evangelicals and the Republican Party. I approach my research projects using a mixed methods approach consisting of artificial intelligence, observational analysis, survey experiments, and qualitative analysis.
 
