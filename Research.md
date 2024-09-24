@@ -15,5 +15,4 @@ Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experime
 
 **Under Review**
 
-"An Empirical Test of How Thin Populist Appeals Increase Public Support for Demo-
-cratic Backsliding." (R&R at _Political Behavior_). 
+"An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding." (R&R at _Political Behavior_). 
