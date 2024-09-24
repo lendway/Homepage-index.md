@@ -15,4 +15,10 @@ Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experime
 
 **Under Review**
 
-"An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding." (R&R at _Political Behavior_). 
+"An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding" (R&R at _Political Behavior_). 
+
+"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler)
+
+"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz)
+
+"Sermon Rhetoric and White Evangelical Support for the Republican Party"
