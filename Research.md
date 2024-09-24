@@ -12,3 +12,8 @@ Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experime
 **Other Writing:**
 
 "The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
+
+**Under Review**
+
+"An Empirical Test of How Thin Populist Appeals Increase Public Support for Demo-
+cratic Backsliding." (R&R at _Political Behavior_). 
