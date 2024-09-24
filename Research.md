@@ -13,7 +13,7 @@ layout: single
 
 "An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding." R&R at _Political Behavior_. 
 
-"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler).[Paper Link]
+"Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler).[Paper Link](Compromise Paper.pdf)
 
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz).
 
