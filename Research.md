@@ -11,7 +11,7 @@ layout: single
 
 **Under Review**
 
-"An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding" (R&R at _Political Behavior_). 
+"An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding." R&R at _Political Behavior_. 
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler).
 
