@@ -9,10 +9,6 @@ Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experime
 
  "The Effect of Priming Structural Fairness on Inequality Beliefs and Preferences" (with Greg Huber). _American Politics Research_. [Paper Link](https://journals.sagepub.com/eprint/XKEEENHBVUHAYAGHRCZR/full)
 
-**Other Writing:**
-
-"The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
-
 **Under Review**
 
 "An Empirical Test of How Thin Populist Appeals Increase Public Support for Democratic Backsliding" (R&R at _Political Behavior_). 
@@ -22,3 +18,7 @@ Fossil Fuel Divestment and Public Climate Change Policy Preferences: An Experime
 "Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz)
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party"
+
+**Sample of Other Writing:**
+
+"The Effect of Informational and Empathy-Enhancing Interventions on Redistributive Preferences." _Yale Journal of International Affairs_. [Paper Link](https://www.yalejournal.org/publications/the-effect-of-informational-and-empathy-enhancing-interventions-on-redistributive-preferences)
