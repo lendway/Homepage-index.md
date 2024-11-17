@@ -10,5 +10,5 @@ layout: single
 
 <iframe width="942" height="530" src="https://www.youtube.com/embed/5Jiw7vaepFw?start=1323" title="Panel V Communicating Anti Fascism Strategies, Tactics, and Implications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
-
+<br>
 [**Princeton University Center for the Study of Democratic Politics Identity and Inequality Poster Presentation (2024)**](/Final_9.19.24_Lendway_CSDP_Presentation.pdf)
