@@ -15,7 +15,7 @@ layout: single
 
 "Public Support for Cross-Issue Compromises in the U.S.” (with Dan Hopkins and Gall Sigler). [Paper Link](/Compromise%20Paper.pdf)
 
-"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). [Paper Link](/Historical%Analogy%SSRN.pdf)
+"Learning From Yesterday, Today: Historical Analogies and Foreign Policy Attitudes" (with Chris Blair and Josh Schwartz). [Paper Link](/Historical_Analogy_SSRN.pdf)
 
 "Sermon Rhetoric and White Evangelical Support for the Republican Party."
 
